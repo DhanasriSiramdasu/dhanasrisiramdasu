@@ -61,11 +61,12 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ![Top Languages](https://github-readme-stats-livid-eight-94.vercel.app/api/top-langs/?username=DhanasriSiramdasu&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/DhanasriSiramdasu/DhanasriSiramdasu/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhanasrisiramdasu&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DhanasriSiramdasu&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
