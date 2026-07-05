@@ -1,4 +1,11 @@
-# Hi 👋, I'm Dhanasri
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Flask](https://img.shields.io/badge/Flask-WebApp-green)
+
+![React](https://img.shields.io/badge/React-18-blue)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)# Hi 👋, I'm Dhanasri
 
 ## 💻 Computer Science Student
 
@@ -66,3 +73,35 @@ To become a Software Development Engineer and Machine Learning Engineer.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanasrisiramdasu&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasrisiramdasu&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhanasrisiramdasu&theme=tokyonight)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=dhanasrisiramdasu&color=blue)
+
+## 💻 Languages and Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
