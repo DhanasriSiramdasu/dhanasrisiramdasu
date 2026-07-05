@@ -69,7 +69,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="[https://leetcode.com/u//](https://leetcode.com/u/Dhanasrisiramdasu/]">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -77,7 +77,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/dhanasrisiramdasu/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
