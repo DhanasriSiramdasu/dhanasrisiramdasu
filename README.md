@@ -66,7 +66,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasrisiramdasu&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-livid-eight-94.vercel.app/api/top-langs/?username=DhanasriSiramdasu&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
