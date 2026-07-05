@@ -70,7 +70,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 <p align="left">
 
 <a href="https://leetcode.com/u/Dhanasrisiramdasu/">
-<img src="https://img.shields.io/badge/LeetCode-FFD39B?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116.?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/DhanasriSiramdasu">
