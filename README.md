@@ -82,7 +82,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/siramdasudhanasri?tab=activity">
-<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=GeeksForGeeks"/>
+<img src="https://img.shields.io/badge/GeeksForGeeks-A9DFBF?style=for-the-badge&logo=GeeksForGeeks"/>
 </a>
 
 </p>
