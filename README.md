@@ -81,8 +81,8 @@ To become a Software Development Engineer and Machine Learning Engineer.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dhanasrisiramdasu/">
-<img src="https://img.shields.io/badge/GeeksForGeeks-0077B5?style=for-the-badge&logo=GeeksForGeeks"/>
+<a href="https://www.geeksforgeeks.org/profile/siramdasudhanasri?tab=activity">
+<img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=GeeksForGeeks"/>
 </a>
 
 </p>
