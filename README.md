@@ -1,11 +1,4 @@
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-
-![Flask](https://img.shields.io/badge/Flask-WebApp-green)
-
-![React](https://img.shields.io/badge/React-18-blue)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)# Hi 👋, I'm Dhanasri
+# Hi 👋, I'm Dhanasri
 
 ## 💻 Computer Science Student
 
