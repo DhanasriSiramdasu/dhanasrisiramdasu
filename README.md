@@ -92,25 +92,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 ![](https://komarev.com/ghpvc/?username=dhanasrisiramdasu&color=blue)
 
 ## 💻 Languages and Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,bootstrap,tailwind,flask,spring,tensorflow,mysql,mongodb,sqlite,git,github,vscode,idea,postman,docker,linux" />
 
 </p>
