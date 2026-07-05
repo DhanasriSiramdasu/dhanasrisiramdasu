@@ -61,7 +61,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ![Top Languages](https://github-readme-stats-livid-eight-94.vercel.app/api/top-langs/?username=DhanasriSiramdasu&layout=compact&theme=tokyonight)
 
-![Snake animation](https://github.com/dhanasrisiramdasu/dhanasrisiramdasu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DhanasriSiramdasu/DhanasriSiramdasu/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 GitHub Streak
 
