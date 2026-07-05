@@ -66,7 +66,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhanasrisiramdasu&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DhanasriSiramdasu&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhanasrisiramdasu&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
