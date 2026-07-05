@@ -65,6 +65,24 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhanasrisiramdasu&theme=tokyonight)
 
+## 🌐 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/DhanasriSiramdasu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=dhanasrisiramdasu&color=blue)
