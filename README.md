@@ -62,7 +62,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 - Email: siramdasudhanasri@gmail.com
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanasrisiramdasu&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=dhanasrisiramdasu&show_icons=true&theme=tokyonight&cache_seconds=1800](https://github-readme-stats-livid-eight-94.vercel.app/api?username=DhanasriSiramdasu&show_icons=true&theme=tokyonight))
 
 ## 💻 Top Languages
 
