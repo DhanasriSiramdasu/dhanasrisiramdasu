@@ -94,5 +94,5 @@ To become a Software Development Engineer and Machine Learning Engineer.
 ## 💻 Languages and Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,bootstrap,tailwind,flask,spring,tensorflow,mysql,mongodb,sqlite,git,github,vscode,idea,postman,docker,linux" />
-
+<img src="https://skillicons.dev/icons?i=postman" />
 </p>
