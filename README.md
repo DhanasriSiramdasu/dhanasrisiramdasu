@@ -60,14 +60,13 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 - LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dhanasrisiramdasu/)
 - Email: siramdasudhanasri@gmail.com
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhanasrisiramdasu&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanasrisiramdasu&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-## 💻 Most Used Languages
+## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhanasrisiramdasu&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasrisiramdasu&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
 
