@@ -6,7 +6,6 @@
 
 🌱 Currently Learning
 
-- Machine Learning
 - Deep Learning
 - System Design
 - Spring Boot
@@ -52,7 +51,7 @@ To become a Software Development Engineer and Machine Learning Engineer.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dhanasrisiramdasu/)
+- LinkedIn: [https://www.linkedin.com/in/dhanasrisiramdasu/](https://www.linkedin.com/in/dhanasrisiramdasu/)
 - Email: siramdasudhanasri@gmail.com
 ## 📊 GitHub Stats
 
